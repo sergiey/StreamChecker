@@ -1,0 +1,15 @@
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/bin/Debug/net7.0/ConsoleChecker
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/bin/Debug/net7.0/ConsoleChecker.deps.json
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/bin/Debug/net7.0/ConsoleChecker.runtimeconfig.json
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/bin/Debug/net7.0/ConsoleChecker.dll
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/bin/Debug/net7.0/ConsoleChecker.pdb
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/obj/Debug/net7.0/ConsoleChecker.csproj.AssemblyReference.cache
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/obj/Debug/net7.0/ConsoleChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/obj/Debug/net7.0/ConsoleChecker.AssemblyInfoInputs.cache
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/obj/Debug/net7.0/ConsoleChecker.AssemblyInfo.cs
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/obj/Debug/net7.0/ConsoleChecker.csproj.CoreCompileInputs.cache
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/obj/Debug/net7.0/ConsoleChecker.dll
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/obj/Debug/net7.0/refint/ConsoleChecker.dll
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/obj/Debug/net7.0/ConsoleChecker.pdb
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/obj/Debug/net7.0/ConsoleChecker.genruntimeconfig.cache
+/Users/sergeymelnikov/code/StreamChecker/ConsoleChecker/obj/Debug/net7.0/ref/ConsoleChecker.dll
